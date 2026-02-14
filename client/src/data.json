@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "desc": "Handcrafted leather bag with multiple compartments and adjustable strap. Ideal for daily use or travel.",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+    "price": 1099,
+    "categories": "clothes",
+    "isFeatured": true,
+    "stock": 36
+  },
+  {
+    "id": 2,
+    "title": "Men's Cotton Jacket",
+    "desc": "Men's daily wear jackets with multiple compartments and adjustable strap. Ideal for daily use or travel.",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    "price": 2099,
+    "categories": "clothes",
+    "isFeatured": false,
+    "stock": 35
+  },
+  {
+    "id": 3,
+    "title": "San-Disk 49-Inch CHG90 144Hz ",
+    "desc": "Handcrafted leather bag with multiple compartments and adjustable strap. Ideal for daily use or travel.",
+    "image": "https://shop.sandisk.com/content/dam/store/en-us/assets/products/usb-flash-drives/cruzer-blade-usb-2-0/gallery/cruzer-blade-usb-2-0-angle.png",
+    "price": 1500,
+    "categories": "electronics",
+    "isFeatured": true,
+    "stock": 34
+  },
+  {
+    "id": 4,
+    "title": "Acer SB220Q bi 21.5 inches Full HD ... ",
+    "desc": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+    "image": "https://icon.in/cdn/shop/files/1_50b8664b-0c2b-477a-9d86-ed6fce060859.jpg?v=1756985540&width=1946",
+    "price": 3099,
+    "categories": "electronics",
+    "isFeatured": true,
+    "stock": 33
+  },
+  {
+    "id": 5,
+    "title": "Men's Cotton Jacket Cream ",
+    "desc": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    "price": 5099,
+    "categories": "men's fashion",
+    "isFeatured": true,
+    "stock": 32
+  },
+  {
+    "id": 6,
+    "title": "Acer SB220Q bi 21.5 inches Full HD ... ",
+    "desc": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+    "image": "https://icon.in/cdn/shop/files/1_50b8664b-0c2b-477a-9d86-ed6fce060859.jpg?v=1756985540&width=1946",
+    "price": 80099,
+    "categories": "Women's fashion",
+    "isFeatured": false,
+    "stock": 30
+  },
+  {
+    "id": 7,
+    "title": "Men's Stylish Jacket",
+    "desc": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+    "image": "https://icon.in/cdn/shop/files/1_50b8664b-0c2b-477a-9d86-ed6fce060859.jpg?v=1756985540&width=1946",
+    "price": 3599,
+    "categories": "clothes",
+    "isFeatured": false,
+    "stock": 29
+  },
+  {
+    "id": 8,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15",
+    "desc": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+    "price": 2099,
+    "categories": "clothes",
+    "isFeatured": true,
+    "stock": 28
+  },
+  {
+    "id": 9,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "desc": "Camera laptop SSD card and adjustable strap. Ideal for daily use or travel.",
+    "price": 129.99,
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+    "categories": "clothes",
+    "isFeatured": false,
+    "stock": 26
+  },
+  {
+    "id": 10,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+    "desc": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+    "price": 199.99,
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+    "categories": "clothes",
+    "isFeatured": true,
+    "stock": 26
+  },
+  {
+    "id": 11,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "desc": "High-fidelity wireless headphones with active noise cancellation and up to 30 hours of battery life.",
+    "price": 299.99,
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+    "categories": "electronics",
+    "isFeatured": false,
+    "stock": 26
+  },
+  {
+    "id": 12,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "desc": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "price": 79.99,
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+    "categories": "clothes",
+    "isFeatured": true,
+    "stock": 26
+  },
+  {
+    "id": 13,
+    "title": "White Gold Plated Princess Classic Created Wedding Engagement",
+    "desc": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "price": 49.99,
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+    "categories": "clothes",
+    "isFeatured": false,
+    "stock": 26
+  },
+  {
+    "id": 14,
+    "title": "Solid Gold Petite Micropave Satisfaction Guaranteed",
+    "desc": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "price": 89.99,
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+    "categories": "clothes",
+    "isFeatured": false,
+
+    "stock": 26
+  },
+  {
+    "id": 15,
+    "title": "John Hardy Women's Legends Naga Gold & Silver ",
+    "desc": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "price": 59.99,
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+    "categories": "clothes",
+    "isFeatured": true,
+    "stock": 26
+  },
+  {
+    "id": 16,
+    "title": "Mens Casual Slim Fit",
+    "desc": "High-quality chef's knife made from Damascus steel. Perfect for slicing and dicing in the kitchen.",
+    "price": 149.99,
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+    "categories": "clothes",
+    "isFeatured": false,
+    "stock": 26
+  }
+]

@@ -1,0 +1,94 @@
+.container {
+  padding: 40px;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.layout {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.itemsSection {
+  flex: 1;
+}
+
+.itemCard {
+  display: flex;
+  gap: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.itemCard img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.total {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.formSection {
+  flex: 1;
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.formSection h2 {
+  margin-bottom: 20px;
+}
+
+.formSection form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.formSection input,
+.formSection textarea {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.placeOrderBtn {
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.placeOrderBtn:hover {
+  background-color: #218838;
+}
+
+.empty {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.empty button {
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
