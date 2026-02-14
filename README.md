@@ -48,6 +48,31 @@ It is designed to reflect real-world scalable architecture used in modern web ap
 
 ---
 
+## 🖼️ Project Screenshots
+
+- 🏠 Home Page:
+  ![Home Page](./screenshots/1.png)
+
+- Swagger API Documentation Page:
+  ![Swagger API Doc](./screenshots/2.png)
+
+- Postman API Testing Tool:
+  ![Postman Tool](./screenshots/3.png)
+
+- 🛍️ Product Page:
+  ![Product Page](./screenshots/4.png)
+
+- 🛒 Cart Page:
+  ![Cart Page](./screenshots/5.png)
+
+- 📦 Order Page:
+  ![Order Page](./screenshots/5.png)
+
+- 🔐 Login & Register Pages:
+  ![Login Page](./screenshots/7.png)
+
+---
+
 ## ✨ Key Features
 
 ### 🔐 Authentication (JWT-Based)
@@ -276,31 +301,6 @@ export const store = configureStore({
 
 
 ```
-
----
-
-## 🖼️ Project Screenshots
-
-- 🏠 Home Page:
-  ![Home Page](./screenshots/1.png)
-
-- Swagger API Documentation Page:
-  ![Swagger API Doc](./screenshots/2.png)
-
-- Postman API Testing Tool:
-  ![Postman Tool](./screenshots/3.png)
-
-- 🛍️ Product Page:
-  ![Product Page](./screenshots/4.png)
-
-- 🛒 Cart Page:
-  ![Cart Page](./screenshots/5.png)
-
-- 📦 Order Page:
-  ![Order Page](./screenshots/5.png)
-
-- 🔐 Login & Register Pages:
-  ![Login Page](./screenshots/7.png)
 
 ---
 
