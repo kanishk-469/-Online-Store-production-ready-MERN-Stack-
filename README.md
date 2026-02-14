@@ -66,7 +66,7 @@ It is designed to reflect real-world scalable architecture used in modern web ap
   ![Cart Page](./screenshots/5.png)
 
 - 📦 Order Page:
-  ![Order Page](./screenshots/5.png)
+  ![Order Page](./screenshots/6.png)
 
 - 🔐 Login & Register Pages:
   ![Login Page](./screenshots/7.png)
